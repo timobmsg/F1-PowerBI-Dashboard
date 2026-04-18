@@ -1,5 +1,7 @@
 # F1 World Championship Dashboard
 
+![Dashboard](Capture.png)
+
 Dashboard Power BI sur les données F1 (1950-2024).
 
 ## Fonctionnalités
